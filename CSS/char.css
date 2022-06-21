@@ -1,0 +1,116 @@
+body {
+	font-family:Comfortaa;
+}
+
+#name{
+	margin-right: 950px;
+	margin-left: 10px;
+	padding-left: 30px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+
+h3 {
+	font-size:30px;
+}
+
+
+#info {
+
+	background-color: #595959;
+	color: white;
+	border:1000px;
+	margin-right: 920px;
+	margin-left: 10px;
+	padding-left: 30px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+#edu {
+	margin-right: 950px;
+	margin-left: 10px;
+	padding-left: 30px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+#right side {
+	float:left;
+	width:50%;
+}
+
+#text {
+	font-weight:bold;
+}
+
+#p3 {
+	font-weight:bold;
+	font-size:20px;
+	font-family: 'Capriola', sans-serif;
+}
+
+#p4 {
+	font-family: 'Capriola', sans-serif;
+}
+
+#gray {
+	font-size: 13px;
+	color:gray;
+}
+
+h2 {
+	font-family: 'Capriola', sans-serif;
+}
+
+h3 {
+	font-family: 'Capriola', sans-serif;
+}
+
+ul {
+	color: gray;
+}
+
+h5 {
+	font-family: 'Capriola', sans-serif;
+	font-size: 13px;
+}
+
+#bilog {
+  	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width: 80%;
+}
+
+.circle3 {
+width:300px;
+height:300px;
+margin-top:60px;
+background-color:#8C8C8B;
+border-radius:100%;
+ 
+}
+
+#demon {
+	
+	position: absolute;
+	width:220px;
+	height:220px;
+	margin-top:40px;
+	margin-left:40px;
+	border-radius:100%;
+	z-index: 1;
+}
+
+.circle4 {
+position: absolute;
+width:250px;
+height:250px;
+margin-top:25px;
+margin-left:25px;
+background-color:white;
+border-radius:100%;
+ 
+}
